@@ -1,2 +1,4 @@
-# Supermarket-Management-System-master
-simple system
+Supermarket-Management-System
+=============================
+
+Simple Supermarket Management System
